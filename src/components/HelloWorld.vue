@@ -10,6 +10,8 @@ const count = ref(0)
   <h1>{{ msg }}</h1>
   <div>
     aaa
+    <span>dsadasdas</span>
+    <span>dasdasdas</span>
   </div>
 
   <div class="card">
