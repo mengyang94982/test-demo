@@ -12,6 +12,7 @@ const count = ref(0)
     aaa
     <span>dsadasdas</span>
     <span>dasdasdas</span>
+    <span>dsadsadas</span>
   </div>
 
   <div class="card">
