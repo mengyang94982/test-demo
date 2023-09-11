@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
-    "@dylanjs/cli": "^0.0.9",
+    "@dylanjs/cli": "^0.0.10",
     "simple-git-hooks": "^2.8.1",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",

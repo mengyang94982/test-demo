@@ -14,6 +14,7 @@ const count = ref(0)
     <span>dasdasdas</span>
     <span>dsadsadas</span>
     <span>654d6s54d6sa46as</span>
+    <span>dsadsadasd</span>
   </div>
 
   <div class="card">
